@@ -1,5 +1,5 @@
 postgres
-pgadmin
+dpage/pgadmin4
 redis
 gitlab/gitlab-ce
 mongo

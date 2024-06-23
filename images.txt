@@ -14,3 +14,15 @@ shenxianmq/auto_symlink
 containrrr/watchtower
 ddsderek/xiaoya-glue
 ddsderek/xiaoya-emd
+jc21/nginx-proxy-manager
+halohub/halo
+postgress
+pgadmin
+redis
+gitlab/gitlab-ce
+mongo
+node
+php
+python
+mysql
+debian:stretch-slim

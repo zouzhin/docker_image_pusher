@@ -1,3 +1,5 @@
+lissy93/dashy
+emby/embyserver
 postgres
 dpage/pgadmin4
 redis

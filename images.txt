@@ -1,3 +1,7 @@
+monlor/xiaoya-alist
+monlor/xiaoya-metadata
+monlor/xiaoya-embyserver
+monlor/xiaoya-jellyfin
 crazymax/jetbrains-license-server
 lissy93/dashy
 emby/embyserver
